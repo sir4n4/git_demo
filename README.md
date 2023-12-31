@@ -42,3 +42,4 @@ first chekout to main
 - online: git push origin --delete feature-button
 ### Tag and Release version
 - git tag v0.1
+- git tag -d v0.1 [to delete]
