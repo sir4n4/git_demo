@@ -7,6 +7,10 @@
 - git log
 - git log --oneline
 
+### Info about branch and online branch
+- git branch -v
+- git branch -r
+  
 ### Create branch 
 - git branch feature-button
 - git branch search
