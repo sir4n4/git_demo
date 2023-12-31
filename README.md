@@ -43,3 +43,6 @@ first chekout to main
 ### Tag and Release version
 - git tag v0.1
 - git tag -d v0.1 [to delete]
+
+### Remove previous origin
+- git remote rm origin
