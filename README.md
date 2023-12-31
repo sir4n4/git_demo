@@ -7,6 +7,10 @@
 - git log
 - git log --oneline
 
+### Push with Upstream
+- git push origin main
+- git push -u origin main [Upsteam helps to pull form online]
+  
 ### Info about branch and online branch
 - git branch -v
 - git branch -r
