@@ -10,6 +10,11 @@
 ### Push with Upstream
 - git push origin main
 - git push -u origin main [Upsteam helps to pull form online]
+
+### Set Upstream
+- git remote add upstream https://......
+- git remote -v
+- git pull upstream main
   
 ### Info about branch and online branch
 - git branch -v
