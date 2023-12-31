@@ -13,6 +13,9 @@
 - git chekout search
 - git chekout main
 
+### Create and chekout
+- git branch -b feature-button
+
 ### Merge
 first chekout to main
 - git checkout main
