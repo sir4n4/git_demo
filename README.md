@@ -28,6 +28,10 @@ first chekout to main
 - git checkout main
 - git merge feature-button
 
+### To see merged and unmerged branches
+- git branch --merged
+- git branch --no-merged
+
 ### delete branch
 - local: git branch -d feature-button
 - online: git push origin --delete feature-button
