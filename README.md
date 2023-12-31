@@ -1,4 +1,7 @@
 # Git Practice!!! 
+
+### Add + Commit [tracked file]
+- git commit -a -m"Updated Index"
 ### Check status
 - git status
 - git log
@@ -9,7 +12,7 @@
 - git branch search
 
 ### Move to branch
-- git checkout feature button
+- git checkout feature-button
 - git chekout search
 - git chekout main
 
