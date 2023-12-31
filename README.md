@@ -40,3 +40,5 @@ first chekout to main
 - local after merged: git branch -d feature-button
 - forced delete: git branch -D feature-button  [when not merged]
 - online: git push origin --delete feature-button
+### Tag and Release version
+- git tag v0.1
