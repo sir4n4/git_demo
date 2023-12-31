@@ -33,5 +33,6 @@ first chekout to main
 - git branch --no-merged
 
 ### delete branch
-- local: git branch -d feature-button
+- local after merged: git branch -d feature-button
+- forced delete: git branch -D feature-button  [when not merged]
 - online: git push origin --delete feature-button
